@@ -1,8 +1,7 @@
 # Kor_monosyllabic-hypocoristics
 
 ## This is a CSV UTF-8 file including the full dataset for the paper 
-## "Monosyllabic affective hypocoristics of Korean names: formation and segmental alternation" 
-### (Jang, 2022, under revision).
+## "Monosyllabic affective hypocoristics of Korean names: formation and segmental alternation" (Jang, 2022, under revision).
 
 ===============
 
